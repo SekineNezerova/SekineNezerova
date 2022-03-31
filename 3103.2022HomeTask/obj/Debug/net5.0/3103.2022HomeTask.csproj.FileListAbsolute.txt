@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\3103.2022HomeTask\3103.2022HomeTask\bin\Debug\net5.0\3103.2022HomeTask.exe
+C:\Users\User\source\repos\3103.2022HomeTask\3103.2022HomeTask\bin\Debug\net5.0\3103.2022HomeTask.deps.json
+C:\Users\User\source\repos\3103.2022HomeTask\3103.2022HomeTask\bin\Debug\net5.0\3103.2022HomeTask.runtimeconfig.json
+C:\Users\User\source\repos\3103.2022HomeTask\3103.2022HomeTask\bin\Debug\net5.0\3103.2022HomeTask.runtimeconfig.dev.json
+C:\Users\User\source\repos\3103.2022HomeTask\3103.2022HomeTask\bin\Debug\net5.0\3103.2022HomeTask.dll
+C:\Users\User\source\repos\3103.2022HomeTask\3103.2022HomeTask\bin\Debug\net5.0\ref\3103.2022HomeTask.dll
+C:\Users\User\source\repos\3103.2022HomeTask\3103.2022HomeTask\bin\Debug\net5.0\3103.2022HomeTask.pdb
+C:\Users\User\source\repos\3103.2022HomeTask\3103.2022HomeTask\obj\Debug\net5.0\3103.2022HomeTask.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\3103.2022HomeTask\3103.2022HomeTask\obj\Debug\net5.0\3103.2022HomeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\3103.2022HomeTask\3103.2022HomeTask\obj\Debug\net5.0\3103.2022HomeTask.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\3103.2022HomeTask\3103.2022HomeTask\obj\Debug\net5.0\3103.2022HomeTask.AssemblyInfo.cs
+C:\Users\User\source\repos\3103.2022HomeTask\3103.2022HomeTask\obj\Debug\net5.0\3103.2022HomeTask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\3103.2022HomeTask\3103.2022HomeTask\obj\Debug\net5.0\3103.2022HomeTask.dll
+C:\Users\User\source\repos\3103.2022HomeTask\3103.2022HomeTask\obj\Debug\net5.0\ref\3103.2022HomeTask.dll
+C:\Users\User\source\repos\3103.2022HomeTask\3103.2022HomeTask\obj\Debug\net5.0\3103.2022HomeTask.pdb
+C:\Users\User\source\repos\3103.2022HomeTask\3103.2022HomeTask\obj\Debug\net5.0\3103.2022HomeTask.genruntimeconfig.cache
